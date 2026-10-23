@@ -65,4 +65,4 @@ Fit a logistic regression on a train/test split to validate the weights, and com
 its tiers against this hand-built score.
 
 ## Dataset
-Kaggle: Credit Risk Dataset (add the link to the dataset page you downloaded from)
+Kaggle: Credit Risk Dataset (https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
